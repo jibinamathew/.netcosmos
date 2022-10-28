@@ -1,0 +1,20 @@
+cosmosdbsqlaccount01
+R-w
+URI : https://cosmosdbsqlaccount01.documents.azure.com:443/
+pr Key:
+EiedfSKEyP2shiBlS1164zxCNf6Q2gZwceoGkdSvAN2nr6g2XegH3pFA4m2aam2n7Rev8eNHfvssACDbWCldPA==
+
+Ronly
+URI:https://cosmosdbsqlaccount01.documents.azure.com:443/
+YZYJfRYOMr0QS1YGECdkB9sbsgmp4TeNBOwxNz6H1InwLDK78VYVGBHoTfghchOyNlZaHWau3w02ACDbIOkWEA==
+
+
+cosmosdbsqlaccount02
+r-w
+URI :https://cosmosdbsqlaccount02.documents.azure.com:443/
+pr key:
+jHyMwYNvguvbjJbh4c0RIKJgKoYh8KIw6TqtU8gAnbtEpAb2n8b92QNLzEYLXt99mwQqegsMLURwACDbk7RfVA==
+
+Ronly
+https://cosmosdbsqlaccount02.documents.azure.com:443/
+k0H0fBbUFXCVCJ9KkgorWe9jrNORJHvIzmv0Ksw5ZxM4suHHjAOi37A6q0QIUyd2YRdtXGDbaKnAACDbxR2AbA==
